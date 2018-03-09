@@ -66,7 +66,7 @@ Customer service and accomodation maintenance for overseas holiday resort.
 
 ## Educational History
 
-### Bachelor of Arts - Quality & Business Excellence
+### Bachelor of Arts, Quality & Business Excellence
 **Nottingham Business School**
 2003 - 2007
 
