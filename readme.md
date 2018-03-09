@@ -68,13 +68,13 @@ Customer service and accomodation maintenance for overseas holiday resort.
 **Alcester Grammar School**
 2001 - 2003
 
-### Projects/Accomplihsments
+### Accomplihsments
 
 ### Austin Health & Olivia Newton John Cancer & Wellness Research Centre
 **Melbourne, Victoria, Australia**
 2015 – 2017
 
-Surgery and Oncology improvement project, enabled by implementation of Cerner's Surgery and Oncology EHR.
+Succesfull clinical and business improvement programme, enabled by implementation of Cerner's perioperative and oncology solutions.
 
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queesland, Australia**
