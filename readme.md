@@ -1,4 +1,4 @@
-#Resume
+# Resume
 
 ## Professional Summary
 
@@ -47,6 +47,11 @@ Cerner (United Kingdom) | "Rising Star" recipient, leading to succesfull complet
 ## Language
 
 English
+
+## Status
+
+Citizenship: British
+Residency: United Kingdom & Australia
 
 ## References
 
