@@ -50,8 +50,9 @@ English
 
 ## Status
 
-Citizenship: British
-Residency: United Kingdom & Australia
+--- | ---
+Citizenship | British
+Residency | United Kingdom, Australia
 
 ## References
 
