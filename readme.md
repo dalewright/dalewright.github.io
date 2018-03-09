@@ -51,7 +51,7 @@ English
 ## Status
 
 --- | ---
-Citizenship | British
+Citizenship | United Kingdom
 Residency | United Kingdom, Australia
 
 ## References
