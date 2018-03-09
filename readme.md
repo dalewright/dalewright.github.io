@@ -6,10 +6,12 @@ Experienced strategist, consultant and analyst. Working at the intersection of h
 
 ### Lead Clinical Strategist
 Cerner, Australia
+
 September 2017 - Present
 
 ### Senior Clinical Strategist
 Cerner, Australia
+
 March 2016 - September 2017
 
 Workflow and change management specialist. Accountable for helping clients achieve measurable value from their implementation of Cerner's electronic health record (EHR) solutions.
@@ -46,6 +48,7 @@ Assisted with the coordination the resolution of business-critical technology in
 
 ### Lead Bartender
 Luminar Lesuire, United Kingdom
+
 2003 - 2005
 
 Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
@@ -88,7 +91,7 @@ Surgery and Oncology improvement programme, enabled by implementation of Cerner'
 *2011 – 2013*
 
 > "First trust in UK validated HIMMS Stage 6 by an on-site visit"
-[Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/
+[Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
 
 #### Oxford University Hospitals NHS Trust
 *2010 – 2011*
