@@ -1,4 +1,6 @@
-## Summary
+# Resume
+
+## Professional Summary
 
 Experienced strategist, consultant and analyst. Working at the intersection of health and technology. Committed to partnering with mission-driven teams to create value.
 
@@ -77,37 +79,45 @@ Customer service and accomodation maintenance for overseas holiday resort.
 ### Projects
 
 #### Austin Health & Olivia Newton John Cancer & Wellness Research Centre
-*2015 – 2017*
+**Melbourne, Victoria, Australia**
+2015 – 2017
 
-Surgery and Oncology improvement programme, enabled by implementation of Cerner's Surgery and Oncology EHR solutions
+Surgery and Oncology improvement project, enabled by implementation of Cerner's Surgery and Oncology EHR.
 
-#### St Stephen's Hervey Bay 
-*2013 - 2015*
+#### St Stephen's Hospital, United Care Health
+**Hervey Bay, Queesland, Australia**
+2013 - 2015
 
 > "The first HIMSS Stage 6 Hospital in Australia"
 [Learn More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
 
 #### St Georges University Hospitals NHS Foundation Trust
-*2011 – 2013*
+**London, United Kingdom**
+2011 – 2013
 
 > "First trust in UK validated HIMMS Stage 6 by an on-site visit"
 [Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
 
 #### Oxford University Hospitals NHS Trust
-*2010 – 2011*
+**Oxfordshire, United Kingdom**
+2010 – 2011
 
 > "Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting"
 [Learn More](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf)
 
 #### Kingston Hospital NHS Foundation Trust
-*2008 - 2009*
+**Kingston upon Thames, United Kingdom**
+2008 - 2009
 
 > "The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT."
 [Learn More](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
 
 ## Honours & Awards
 
-"Rising Star" recipient, leading to succesfull completion of Cerner's accelerated career development programme.
+### Rising Star
+2010
+
+Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme.
 
 ## Language
 
