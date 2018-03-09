@@ -1,6 +1,6 @@
 # Resume
 
-## Summary
+## Professional Summary
 
 Experienced strategist, consultant and analyst. Working at the intersection of health and technology, since 2008. Committed to partnering with mission-driven teams to create value.
 
