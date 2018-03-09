@@ -64,10 +64,13 @@ Customer service and accomodation maintenance for overseas holiday resort.
 
 ## Educational History
 
-Organisation | Achievement | Dates
---- | ---- | ---
-Nottingham Business School | Bachelor of Arts; Quality & Business Excellence |  2003 - 2007
-Alcester Grammar School | Double A-Level in Business Studies, A-Level in History | 2001 - 2003
+### Bachelor of Arts - Quality & Business Excellence
+**Nottingham Business School**
+2003 - 2007
+
+### Double A-Level in Business Studies &  A-Level in History
+**Alcester Grammar School**
+2001 - 2003
 
 ## Accomplishments
 
