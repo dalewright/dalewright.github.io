@@ -5,7 +5,8 @@ Experienced strategist, consultant and analyst. Working at the intersection of h
 ## Professional History
 
 ### Lead Clinical Strategist
-Cerner, Australia. September 2017 - Present
+#####Cerner, Australia
+######September 2017 - Present
 
 ### Senior Clinical Strategist
 Cerner, Australia.  March 2016 - September 2017
