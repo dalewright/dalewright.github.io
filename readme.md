@@ -6,18 +6,63 @@ Experienced strategist, consultant and analyst. Working at the intersection of h
 
 ## Professional History
 
-Organisation | Role | Description | Dates
------------- | ------------- | ------------- | -----------
-Cerner (Australia) | Lead Clinical Strategist | ... | September 2017 - Present 
-Cerner (Australia | Senior Clinical Strategist | Workflow and change management specialist. Accountable for helping clients achieve measurable value from their implementation of Cerner's electronic health record (EHR) solutions. | March 2016 - September 2017
-Cerner (United Kingdom / Australia) | Clinical Strategist | Workflow specialist. Responsible for helping clients transform their clinical and business processes, supported by the implementation of Cerner's electronic medical record (EHR) solutions. | April 2012 - March 2016 
-Cerner (United Kingdom) | Strategic Business Analyst | Analyst aligned to senior vice president and their leadership team. | August 2011 - April 2012
-Cerner (United Kingdom) | Senior Consultant | Solution expert. Accountable for successful implementation of Cerner's electronic health record (EHR) solutions. | April 2010 - Augist 2011
-Cerner (United Kingdom) | Consultant | Solution specialist. Responsible for technical implementation of Cerner's electronic health record (EHR) solutions. | March 2008 - April 2010
-IBM (United Kingdom) | Service Management Intern | Assisted with the coordination the resolution of business-critical technology incidents, leveraging ITIL Service Management best practices | June 2005 - June 2006
-Luminar Lesuire | Lead Bartender | Customer service, operational management and financial accounting for multiple service areas within large entertainment venue. | 2003 - 2005
-Canvas Holidays | Senior Campsite Courier | Customer service and accomodation management for overseas holiday resort. | May 2004 - November 2004
-Canvas Holidays | Camspite Courier | Customer service and accomodation maintenance for overseas holiday resort. | June 2003 - September 2003 
+### Lead Clinical Strategist
+Cerner (Australia) |
+*September 2017 - Present*
+
+### Senior Clinical Strategist
+Cerner (Australia
+*March 2016 - September 2017*
+
+Workflow and change management specialist. Accountable for helping clients achieve measurable value from their implementation of Cerner's electronic health record (EHR) solutions.
+
+### Clinical Strategist
+Cerner (United Kingdom & Australia)
+*April 2012 - March 2016*
+
+Workflow specialist. Responsible for helping clients transform their clinical and business processes, supported by the implementation of Cerner's electronic medical record (EHR) solutions.
+
+### Strategic Business Analyst
+Cerner (United Kingdom)
+*August 2011 - April 2012*
+
+Analyst aligned to senior vice president and their leadership team.
+
+### Senior Consultant
+Cerner (United Kingdom)
+*April 2010 - Augist 2011*
+
+Solution expert. Accountable for successful implementation of Cerner's electronic health record (EHR) solutions.
+
+###  Consultant
+Cerner (United Kingdom)
+*March 2008 - April 2010*
+
+Solution specialist. Responsible for technical implementation of Cerner's electronic health record (EHR) solutions.
+
+### Service Management Intern
+IBM (United Kingdom)
+*June 2005 - June 2006*
+
+Assisted with the coordination the resolution of business-critical technology incidents, leveraging ITIL Service Management best practices
+
+### Lead Bartender
+Luminar Lesuire
+*2003 - 2005*
+
+Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
+
+### Senior Campsite Courier
+Canvas Holidays
+*May 2004 - November 2004*
+
+Customer service and accomodation management for overseas holiday resort.
+
+### Camspite Courier 
+Canvas Holidays
+**June 2003 - September 2003*
+
+Customer service and accomodation maintenance for overseas holiday resort. 
 
 ## Educational History
 
