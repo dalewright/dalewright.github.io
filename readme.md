@@ -43,7 +43,7 @@ Kingston Hospital NHS Foundation Trust | *"The hospital went live on the final d
 
 Organisation | Description
 --- | ---
-Cerner (United Kingdom) | "Rising Star" leading to succesfull completion of Cerner's accelerated career development programme.
+Cerner (United Kingdom) | "Rising Star" recipient, leading to succesfull completion of Cerner's accelerated career development programme.
 
 ## Language
 
