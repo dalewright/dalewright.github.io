@@ -48,7 +48,7 @@ Cerner (United Kingdom) | "Rising Star" recipient, leading to succesfull complet
 
 English
 
-## Status
+## Legal Status
 
 --- | ---
 Citizenship | United Kingdom
