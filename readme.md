@@ -36,7 +36,11 @@ Austin Health & Olivia Newton John Cancer & Wellness Research Centre | Surgery a
 St Stephen's Hervey Bay | *"The first HIMSS Stage 6 Hospital in Australia"* [Learn More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp) | 2013 - 2015
 St Georges University Hospitals NHS Foundation Trust | *"First trust in UK validated HIMMS Stage 6 by an on-site visit"* [Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/) | 2011 – 2013
 Oxford University Hospitals NHS Trust | *"Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting"* [Learn More](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf) | 2010 – 2011
-Kingston Hospital NHS Foundation Trust | *"The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT."* [Learn More](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)| 2008 - 2009
+
+## Kingston Hospital NHS Foundation Trust
+2008 - 2009
+
+> "The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT." [Learn More](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
 
 ### Honours & Awards
 
