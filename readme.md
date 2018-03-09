@@ -5,15 +5,18 @@ Experienced strategist, consultant and analyst. Working at the intersection of h
 ## Professional History
 
 ### Lead Clinical Strategist
-Cerner, Australia  September 2017 - Present
+Cerner, Australia\
+September 2017 - Present
 
 ### Senior Clinical Strategist
-Cerner, Australia  March 2016 - September 2017
+Cerner, Australia\
+March 2016 - September 2017
 
 Workflow and change management specialist. Accountable for helping clients achieve measurable value from their implementation of Cerner's electronic health record (EHR) solutions.
 
 ### Clinical Strategist
-Cerner, United Kingdom & Australia  April 2012 - March 2016
+Cerner, United Kingdom & Australia\
+April 2012 - March 2016
 
 Workflow specialist. Responsible for helping clients transform their clinical and business processes, supported by the implementation of Cerner's electronic medical record (EHR) solutions.
 
