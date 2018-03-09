@@ -68,38 +68,36 @@ Customer service and accomodation maintenance for overseas holiday resort.
 **Alcester Grammar School**
 2001 - 2003
 
-## Accomplishments
+### Projects/Accomplihsments
 
-### Projects
-
-#### Austin Health & Olivia Newton John Cancer & Wellness Research Centre
+### Austin Health & Olivia Newton John Cancer & Wellness Research Centre
 **Melbourne, Victoria, Australia**
 2015 – 2017
 
 Surgery and Oncology improvement project, enabled by implementation of Cerner's Surgery and Oncology EHR.
 
-#### St Stephen's Hospital, United Care Health
+### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queesland, Australia**
 2013 - 2015
 
 > "The first HIMSS Stage 6 Hospital in Australia"
 [Learn More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
 
-#### St Georges University Hospitals NHS Foundation Trust
+### St Georges University Hospitals NHS Foundation Trust
 **London, United Kingdom**
 2011 – 2013
 
 > "First trust in UK validated HIMMS Stage 6 by an on-site visit"
 [Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
 
-#### Oxford University Hospitals NHS Trust
+### Oxford University Hospitals NHS Trust
 **Oxfordshire, United Kingdom**
 2010 – 2011
 
 > "Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting"
 [Learn More](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf)
 
-#### Kingston Hospital NHS Foundation Trust
+### Kingston Hospital NHS Foundation Trust
 **Kingston upon Thames, United Kingdom**
 2008 - 2009
 
