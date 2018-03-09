@@ -6,54 +6,60 @@ Experienced strategist, consultant and analyst. Working at the intersection of h
 
 ## Professional History
 
-### Cerner Corporation
-
-#### Lead Clinical Strategist
+### Lead Clinical Strategist
+Cerner, Australia
 *September 2017 - Present*
 
-#### Senior Clinical Strategist
+### Senior Clinical Strategist
+Cerner, Australia
 *March 2016 - September 2017*
 
 Workflow and change management specialist. Accountable for helping clients achieve measurable value from their implementation of Cerner's electronic health record (EHR) solutions.
 
-#### Clinical Strategist
+### Clinical Strategist
+Cerner, United Kingdom & Australia
 *April 2012 - March 2016*
 
 Workflow specialist. Responsible for helping clients transform their clinical and business processes, supported by the implementation of Cerner's electronic medical record (EHR) solutions.
 
-#### Strategic Business Analyst
+### Strategic Business Analyst
+Cerner, United Kingdom
 *August 2011 - April 2012*
 
 Analyst aligned to senior vice president and their leadership team.
 
-#### Senior Consultant
+### Senior Consultant
+Cerner, United Kingdom
 *April 2010 - Augist 2011*
 
 Solution expert. Accountable for successful implementation of Cerner's electronic health record (EHR) solutions.
 
-####  Consultant
+###  Consultant
+Cerner, United Kingdom
 *March 2008 - April 2010*
 
 Solution specialist. Responsible for technical implementation of Cerner's electronic health record (EHR) solutions.
 
-### IBM Global Services (United Kingdom)
-
-#### Service Management Intern
+### Service Management Intern
+IBM Global Services,  United Kingdom
 *June 2005 - June 2006*
 
 Assisted with the coordination the resolution of business-critical technology incidents, leveraging ITIL Service Management best practices
 
-### Lead Bartender, Luminar Lesuire
+### Lead Bartender
+Luminar Lesuire, United Kingdom
 *2003 - 2005*
 
 Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
 
-### Senior Campsite Courier, Canvas Holidays
+### Senior Campsite Courier,
+Canvas Holidays, France
 *May 2004 - November 2004*
 
 Customer service and accomodation management for overseas holiday resort.
 
-### Camspite Courier, Canvas Holidays
+### Camspite Courier
+Canvas Holidays, France
 *June 2003 - September 2003*
 
 Customer service and accomodation maintenance for overseas holiday resort. 
