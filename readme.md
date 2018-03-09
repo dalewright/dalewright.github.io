@@ -31,15 +31,27 @@ Alcester Grammar School | Double A-Level in Business Studies, A-Level in History
 ### Projects
 
 #### Austin Health & Olivia Newton John Cancer & Wellness Research Centre
-Surgery and Oncology improvement programme, enabled by implementation of Cerner's Surgery and Oncology EHR solutions
 * 2015 – 2017
 
-St Stephen's Hervey Bay | *"The first HIMSS Stage 6 Hospital in Australia"* [Learn More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp) | 2013 - 2015
-St Georges University Hospitals NHS Foundation Trust | *"First trust in UK validated HIMMS Stage 6 by an on-site visit"* [Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/) | 2011 – 2013
-Oxford University Hospitals NHS Trust | *"Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting"* [Learn More](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf) | 2010 – 2011
+Surgery and Oncology improvement programme, enabled by implementation of Cerner's Surgery and Oncology EHR solutions
+
+#### St Stephen's Hervey Bay 
+* 2013 - 2015
+
+> "The first HIMSS Stage 6 Hospital in Australia"* [Learn More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
+
+#### St Georges University Hospitals NHS Foundation Trust
+2011 – 2013
+
+> "First trust in UK validated HIMMS Stage 6 by an on-site visit"* [Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/
+
+#### Oxford University Hospitals NHS Trust
+* 2010 – 2011
+
+> "Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting"* [Learn More](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf)
 
 #### Kingston Hospital NHS Foundation Trust
-2008 - 2009
+* 2008 - 2009
 
 > "The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT." [Learn More](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
 
