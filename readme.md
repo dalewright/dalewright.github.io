@@ -6,35 +6,39 @@ Experienced strategist, consultant and analyst. Working at the intersection of h
 
 ## Professional History
 
-### Lead Clinical Strategist, Cerner (Australia)
+### Cerner Corporation
+
+#### Lead Clinical Strategist
 *September 2017 - Present*
 
-### Senior Clinical Strategist, Cerner (Australia)
+#### Senior Clinical Strategist
 *March 2016 - September 2017*
 
 Workflow and change management specialist. Accountable for helping clients achieve measurable value from their implementation of Cerner's electronic health record (EHR) solutions.
 
-### Clinical Strategist, Cerner (United Kingdom & Australia)
+#### Clinical Strategist
 *April 2012 - March 2016*
 
 Workflow specialist. Responsible for helping clients transform their clinical and business processes, supported by the implementation of Cerner's electronic medical record (EHR) solutions.
 
-### Strategic Business Analyst, Cerner (United Kingdom)
+#### Strategic Business Analyst
 *August 2011 - April 2012*
 
 Analyst aligned to senior vice president and their leadership team.
 
-### Senior Consultant, Cerner (United Kingdom)
+#### Senior Consultant
 *April 2010 - Augist 2011*
 
 Solution expert. Accountable for successful implementation of Cerner's electronic health record (EHR) solutions.
 
-###  Consultant, Cerner (United Kingdom)
+####  Consultant
 *March 2008 - April 2010*
 
 Solution specialist. Responsible for technical implementation of Cerner's electronic health record (EHR) solutions.
 
-### Service Management Intern, IBM Global Services (United Kingdom)
+### IBM Global Services (United Kingdom)
+
+#### Service Management Intern
 *June 2005 - June 2006*
 
 Assisted with the coordination the resolution of business-critical technology incidents, leveraging ITIL Service Management best practices
