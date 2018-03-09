@@ -1,4 +1,4 @@
-# Dale Wright
+# Resume
 [Email](mailto:resume@dalewright.com) | [Twitter](https://www.twitter.com/dalecraigwright) | [LinkedIn](https://www.linkedin.com/in/dalecraigwright)
 ## Summary
 
