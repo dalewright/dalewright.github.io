@@ -85,13 +85,13 @@ Contributed to succesfull clinical and business improvement project, enabled by 
 **Melbourne, Victoria, Australia**
 2015 – 2016
 
-Contributed to succesfull clinical and business improvement project, enabled by Cerner's perioperative reccomended-workflows and technology solutions.
+Contributed to succesfull clinical and business improvement project, enabled by Cerner's perioperative technology solutions
 
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queesland, Australia**
 2013 - 2015
 
-Contributed to succesfull clinical and business improvement project, enabled by Cerner's full suite of reccomended-workflows and technology services.
+Contributed to succesfull clinical and business improvement project, enabled by Cerner's full suite of technology solutions.
 
 >  First HIMSS Stage 6 Hospital in Australia
 [Learn More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
