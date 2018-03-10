@@ -4,7 +4,7 @@
 **Cerner, Australia** 
 September 2017 - Present
 
-Workflow and change management leader. Resposonsible for developing and maintaining relationships with key project stakeholders. These relatioships are leveraged throughout projects to clarrify priorities, faciliate decision-making and drive adoption.
+Workflow and change management leader. Resposonsible for developing and maintaining relationships with key project stakeholders, helping projects clarrify priorities, faciliate decision-making and drive adoption.
 
 ### Senior Clinical Strategist
 **Cerner, Australia**
