@@ -96,7 +96,7 @@ Customer service and accomodation maintenance for an overseas holiday resort.
 **Cerner, United Kingdom**
 2010
 
-Recipient of Rising Star award for my early-career performance. Lead to succesfull completion of Cerner's accelerated career development programme.
+Recipient of Rising Star award for early-career performance. Lead to succesfull completion of Cerner's accelerated career development programme.
 
 ## [Education History](#educationalhistory)
 
