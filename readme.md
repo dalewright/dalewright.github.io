@@ -70,7 +70,7 @@ Customer service and accomodation maintenance for overseas holiday resort.
 **Alcester Grammar School**
 2001 - 2003
 
-## [Projects & Accomplishments](#projectsaccomplishments)
+## [Professional Accomplishments](#professionalaccomplishments)
 
 ### ONJ Cancer & Wellness Research Centre
 **Melbourne, Victoria, Australia**
