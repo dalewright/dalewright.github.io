@@ -1,10 +1,4 @@
-1. [Professional History](#professionalsummary)
-2. [Education History](#educationsummary)
-3. [Projects & Accomplishments](#projectsaccomplishments)
-4. [References](#references)
-5. [Further Information](#furtherinformation)
-
-## [Professional Summary](#professionalsummary)
+## [Professional History](#professionalhistory)
 
 ### Lead Clinical Strategist
 **Cerner, Australia** 
