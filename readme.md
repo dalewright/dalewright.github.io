@@ -38,7 +38,7 @@ Solution specialist. Responsible for technical implementation of Cerner's electr
 **IBM Global Services, United Kingdom**
 June 2005 - June 2006
 
-Assisted with the coordination the resolution of business-critical technology incidents, leveraging ITIL Service Management best practices
+Assisted with the coordination the immediate and long-term resolution of business-critical technology incidents, leveraging ITIL Service Management best practices.
 
 ### Lead Bartender
 **Luminar Lesuire, United Kingdom**
