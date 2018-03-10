@@ -1,3 +1,10 @@
+1. Professional History
+2. Education History
+3. Project & Accomplishments
+4. Passions
+5. References
+5. Additional Information
+
 ## Professional History
 
 ### Lead Clinical Strategist
@@ -111,18 +118,21 @@ Contributed to succesfull clinical and business improvement programme, enabled b
 
 Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme.
 
-## Language
-
-English
-
-## Legal Status
-
---- | ---
-Citizenship | British
-Residency | United Kingdom, Australia
-
 ## References
 
 [Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
 
 References available upom request
+
+## Additional Information
+
+### Language
+
+English
+
+### Legal Status
+
+--- | ---
+Citizenship | British
+Residency | United Kingdom, Australia
+
