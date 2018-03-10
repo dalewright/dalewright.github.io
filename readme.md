@@ -74,7 +74,11 @@ Customer service and accomodation maintenance for overseas holiday resort.
 **Melbourne, Victoria, Australia**
 2015 – 2017
 
-Contributed to succesfull clinical and business improvement programme, enabled by implementation of Cerner's perioperative and oncology solutions.
+Contributed to succesfull clinical and business improvement programme, enabled by Cerner's perioperative and oncology reccomended workflows and technology solutions.
+
+> "Between 20/06/17 and 11/08/17 we have treated 240 patients with 548 cycles of chemotherapy, and 45/70 regimens have been prescribed. No significant errors have been recorded. Processes to audit dose modification data for quality improvement and develop/maintain electronic regimens have been developed."
+[Learn More](http://cosa-2017.p.asnevents.com.au/days/2017-11-13/abstract/47697)
+
 
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queesland, Australia**
