@@ -4,8 +4,6 @@
 **Cerner, Australia** 
 September 2017 - Present
 
-TEST
-
 ### Senior Clinical Strategist
 **Cerner, Australia**
 March 2016 - September 2017
