@@ -42,7 +42,7 @@ June 2005 - June 2006
 
 Assisted with the coordination the immediate and long-term resolution of business-critical technology incidents, leveraging ITIL Service Management best practices.
 
-### Senior Campsite Courier,
+### Senior Campsite Courier
 **Canvas Holidays, France**
 May 2004 - November 2004
 
