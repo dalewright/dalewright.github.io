@@ -1,11 +1,11 @@
-1. Professional History
+1. [Professional History](#professionalsummary)
 2. Education History
 3. Project & Accomplishments
 4. Passions
 5. References
 5. Additional Information
 
-## Professional History
+## [Professional Summary](#professionalsummary)
 
 ### Lead Clinical Strategist
 **Cerner, Australia** 
