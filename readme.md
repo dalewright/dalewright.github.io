@@ -73,7 +73,7 @@ Customer service and accomodation maintenance for overseas holiday resort.
 ## [Professional Accomplishments](#professionalaccomplishments)
 
 ### ONJ Cancer & Wellness Research Centre
-**Melbourne, Victoria, Australia**
+**Heidelberg, Victoria, Australia**
 2016 – 2017
 
 Contributed to succesfull clinical and business improvement project, enabled by Cerner's oncology reccomended-workflows and technology solutions.
@@ -82,7 +82,7 @@ Contributed to succesfull clinical and business improvement project, enabled by 
 [Learn More](http://cosa-2017.p.asnevents.com.au/days/2017-11-13/abstract/47697)
 
 ### Austin Health
-**Melbourne, Victoria, Australia**
+**Heidelberg, Victoria, Australia**
 2015 – 2016
 
 Contributed to succesfull clinical and business improvement project, enabled by Cerner's perioperative technology solutions
@@ -104,7 +104,7 @@ Contributed to succesfull clinical and business improvement project, enabled by 
 [Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
 
 ### Oxford University Hospitals NHS Trust
-**Oxfordshire, United Kingdom**
+**Oxford, United Kingdom**
 2010 – 2011
 
 > Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting
