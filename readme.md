@@ -101,9 +101,9 @@ Recipient of award, leading to succesfull completion of Cerner's accelerated car
 
 ## [References](#references)
 
-[Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
-
 References available upom request
+
+[Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
 
 ## [Further Information](#furtherinformation)
 
