@@ -96,7 +96,7 @@ Customer service and accomodation maintenance for an overseas holiday resort.
 **Cerner, United Kingdom**
 2010
 
-Recipient of award, leading to succesfull completion of Cerner's accelerated career development programme. The programme greatly expanded my understanding of technologies role in improving the quality and cost of health care around the world.
+Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme.
 
 ## [Education History](#educationalhistory)
 
