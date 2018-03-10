@@ -43,10 +43,10 @@ June 2005 - June 2006
 Assisted with the resolution of business-critical technology incidents, leveraging ITIL Service Management best practices.
 
 ### Senior Campsite Courier
-**Canvas Holidays, France**
+**Canvas Holidays, Vendée, France**
 May 2004 - November 2004
 
-Customer service and accomodation maintenance for an overseas holiday resort.
+Customer service and accomodation maintenance for an overseas family holiday resort.
 
 ### Lead Bartender
 **Luminar Lesuire, Nottingham, United Kingdom**
@@ -55,10 +55,10 @@ Customer service and accomodation maintenance for an overseas holiday resort.
 Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
 
 ### Camspite Courier
-**Canvas Holidays, France**
+**Canvas Holidays, Vendée, France**
 June 2003 - September 2003
 
-Customer service and accomodation maintenance for an overseas holiday resort.
+Customer service and accomodation maintenance for an overseas family holiday resort.
 
 ### Bartender
 **Luminar Lesuire, Nottingham, United Kingdom**
