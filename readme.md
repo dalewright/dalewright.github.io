@@ -129,6 +129,5 @@ English
 
 ### References
 
-References available upon request
-
-[Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
+- References available upon request
+- [Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
