@@ -1,9 +1,8 @@
 1. [Professional History](#professionalsummary)
-2. Education History
-3. Project & Accomplishments
-4. Passions
-5. References
-5. Additional Information
+2. [Education History](#educationsummary)
+3. [Projects & Accomplishments](#projectsaccomplishments)
+4. [References](#references)
+5. [Further Information](#furtherinformation)
 
 ## [Professional Summary](#professionalsummary)
 
@@ -65,7 +64,7 @@ June 2003 - September 2003
 
 Customer service and accomodation maintenance for overseas holiday resort. 
 
-## Educational History
+## [Education History](#educationalhistory)
 
 ### Bachelor of Arts, Quality & Business Excellence
 **Nottingham Business School**
@@ -75,7 +74,7 @@ Customer service and accomodation maintenance for overseas holiday resort.
 **Alcester Grammar School**
 2001 - 2003
 
-## Projects & Accomplishments
+## [Projects & Accomplishments](#projectsaccomplishments)
 
 ### Austin Health & Olivia Newton John Cancer & Wellness Research Centre
 **Melbourne, Victoria, Australia**
@@ -118,13 +117,13 @@ Contributed to succesfull clinical and business improvement programme, enabled b
 
 Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme.
 
-## References
+## [References](#references)
 
 [Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
 
 References available upom request
 
-## Additional Information
+## [Further Information](#furtherinformation)
 
 ### Language
 
