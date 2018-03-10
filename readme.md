@@ -14,7 +14,7 @@ Workflow and change management specialist. Accountable for helping clients achie
 **Cerner, United Kingdom & Australia**
 April 2012 - March 2016
 
-Workflow specialist. Responsible for helping clients transform their clinical and business processes, supported by Cerner’s reccomended workflows, technology solutions and professional services.
+Workflow specialist. Responsible for helping clients transform their clinical and business processes, supported by Cerner’s technology solutions.
 
 ### Strategic Business Analyst
 **Cerner, United Kingdom**
