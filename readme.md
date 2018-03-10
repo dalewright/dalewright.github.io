@@ -4,7 +4,7 @@
 **Cerner, Australia** 
 September 2017 - Present
 
-Helps lead improvement projects. Responsible for development and maintaining relatioships with project stakeholders. These relatioships are leveraged throughout project lifecycle to clarrify priorities, faciliate decision-making and drive adoption.
+Workflow and change management expert. Resposonsible for developing and maintaining strategic relatioships with key project stakeholders. These relatioships are leveraged throughout project lifecycle to clarrify priorities, faciliate decision-making and drive adoption.
 
 ### Senior Clinical Strategist
 **Cerner, Australia**
