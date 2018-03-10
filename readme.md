@@ -4,7 +4,9 @@
 **Cerner, Australia** 
 September 2017 - Present
 
-Workflow and change management leader. Resposonsible for developing and maintaining relationships with key project stakeholders, helping projects clarrify priorities, faciliate decision-making and drive adoption.
+- Accountable for helping clients realise measurable value from Cerner's best-practice workflows and technology solutions.
+- Resposonsible for developing and maintaining relationships with key project stakeholders to help project clarrify priorities, faciliate decision-making and drive adoption.
+
 
 ### Senior Clinical Strategist
 **Cerner, Australia**
@@ -52,13 +54,13 @@ Customer service, operational management and financial accounting for multiple s
 **Canvas Holidays, France**
 May 2004 - November 2004
 
-Customer service, accomdation maintenance and site management for overseas holiday resort.
+Customer service, accomdation maintenance and site management for an overseas holiday resort.
 
 ### Camspite Courier
 **Canvas Holidays, France**
 June 2003 - September 2003
 
-Customer service and accomodation maintenance for overseas holiday resort. 
+Customer service and accomodation maintenance for an overseas holiday resort. 
 
 ## [Education History](#educationalhistory)
 
