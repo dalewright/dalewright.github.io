@@ -111,6 +111,6 @@ English
 
 ## [References](#references)
 
-References available upom request
+References available upon request
 
 [Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
