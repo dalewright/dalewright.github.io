@@ -62,7 +62,7 @@ Customer service and accomodation maintenance for an overseas holiday resort.
 
 ### Bartender
 **Luminar Lesuire, United Kingdom**
-2003 - 2004
+2002 - 2004
 
 Customer service at large entertainment venue.
 
@@ -108,11 +108,11 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 
 ### Bachelor of Arts, Quality & Business Excellence
 **Nottingham Business School**
-2003 - 2007
+2002 - 2007
 
 ### Double A-Level in Business Studies &  A-Level in History
 **Alcester Grammar School**
-2001 - 2003
+2000 - 2002
 
 ## [Interests](#interests)
 
