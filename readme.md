@@ -40,7 +40,7 @@ Solution specialist. Resposnible for technical configuration of Cerner's technol
 **IBM Global Services, United Kingdom**
 June 2005 - June 2006
 
-Assisted with the coordination the immediate and long-term resolution of business-critical technology incidents, leveraging ITIL Service Management best practices.
+Assisted with the resolution of business-critical technology incidents, leveraging ITIL Service Management best practices.
 
 ### Senior Campsite Courier
 **Canvas Holidays, France**
