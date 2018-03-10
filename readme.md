@@ -94,6 +94,12 @@ References available upom request
 
 [Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
 
+## [Personal Interests & Achievements](#personalinterestsachievements)
+
+- **New technology** Example
+- **Growing companies** Example
+- **Mentoring** Example
+
 ## [Further Information](#furtherinformation)
 
 ### Location
