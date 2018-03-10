@@ -44,9 +44,15 @@ Assisted with the coordination the immediate and long-term resolution of busines
 
 ### Lead Bartender
 **Luminar Lesuire, United Kingdom**
-2003 - 2005
+2004 - 2005
 
 Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
+
+### Bartender
+**Luminar Lesuire, United Kingdom**
+2003 - 2004
+
+Customer service at large entertainment venue.
 
 ### Senior Campsite Courier,
 **Canvas Holidays, France**
