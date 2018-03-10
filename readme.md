@@ -68,7 +68,7 @@ Customer service and accomodation maintenance for overseas holiday resort.
 **Alcester Grammar School**
 2001 - 2003
 
-### Accomplihsments
+## Accomplishments
 
 ### Austin Health & Olivia Newton John Cancer & Wellness Research Centre
 **Melbourne, Victoria, Australia**
