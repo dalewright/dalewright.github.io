@@ -64,21 +64,21 @@ Customer service and accomodation maintenance for an overseas holiday resort.
 **Hervey Bay, Queesland, Australia**
 2013 - 2015
 
->  First HIMSS Stage 6 Hospital in Australia
+>  First HIMSS Stage 6 Hospital in Australia.
 [Learn More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
 
 ### St Georges University Hospitals NHS Foundation Trust
 **London, United Kingdom**
 2011 – 2013
 
-> First [NHS] trust in UK validated HIMMS Stage 6 by an on-site visit
+> First [NHS] trust in UK validated HIMMS Stage 6 by an on-site visit.
 [Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
 
 ### Oxford University Hospitals NHS Trust
 **Oxford, United Kingdom**
 2010 – 2011
 
-> Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting
+> Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting.
 [Learn More](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf)
 
 ### Kingston Hospital NHS Foundation Trust
