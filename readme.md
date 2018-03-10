@@ -52,7 +52,7 @@ Customer service, operational management and financial accounting for multiple s
 **Canvas Holidays, France**
 May 2004 - November 2004
 
-Customer service and accomodation management for overseas holiday resort.
+Customer service, accomdation maintenance and site management for overseas holiday resort.
 
 ### Camspite Courier
 **Canvas Holidays, France**
