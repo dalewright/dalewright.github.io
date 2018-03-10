@@ -58,7 +58,7 @@ June 2003 - September 2003
 
 Customer service and accomodation maintenance for an overseas holiday resort.
 
-## [Professional Accomplishments](#professionalaccomplishments)
+## [Projects & Accomplishments](#projectsalaccomplishments)
 
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queesland, Australia**
