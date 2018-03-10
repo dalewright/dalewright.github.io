@@ -117,7 +117,7 @@ Contributed to succesfull clinical and business improvement project, enabled by 
 > The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT.
 [Learn More](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
 
-## Professional Honours
+## [Professional Honours](#professionalhonours)
 
 ### Rising Star
 2010
