@@ -58,16 +58,6 @@ June 2003 - September 2003
 
 Customer service and accomodation maintenance for an overseas holiday resort.
 
-## [Education History](#educationalhistory)
-
-### Bachelor of Arts, Quality & Business Excellence
-**Nottingham Business School**
-2003 - 2007
-
-### Double A-Level in Business Studies &  A-Level in History
-**Alcester Grammar School**
-2001 - 2003
-
 ## [Professional Accomplishments](#professionalaccomplishments)
 
 ### St Stephen's Hospital, United Care Health
@@ -105,6 +95,16 @@ Customer service and accomodation maintenance for an overseas holiday resort.
 2010
 
 Recipient of award, leading to succesfull completion of Cerner's accelerated career development programme. The programme greatly expanded my understanding of technologies role in improving the quality and cost of health care around the world.
+
+## [Education History](#educationalhistory)
+
+### Bachelor of Arts, Quality & Business Excellence
+**Nottingham Business School**
+2003 - 2007
+
+### Double A-Level in Business Studies &  A-Level in History
+**Alcester Grammar School**
+2001 - 2003
 
 ## [Personal Interests & Achievements](#personalinterestsachievements)
 
