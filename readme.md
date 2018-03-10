@@ -106,7 +106,7 @@ Recipient of award, leading to succesfull completion of Cerner's accelerated car
 **Alcester Grammar School**
 2001 - 2003
 
-## [Personal Interests & Achievements](#personalinterestsachievements)
+## [Interests](#interests)
 
 - New technology
 - Mentoring and coaching
