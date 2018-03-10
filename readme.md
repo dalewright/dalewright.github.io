@@ -70,15 +70,20 @@ Customer service and accomodation maintenance for overseas holiday resort.
 
 ## [Projects & Accomplishments](#projectsaccomplishments)
 
-### Austin Health & Olivia Newton John Cancer & Wellness Research Centre
+### ONJ Cancer & Wellness Research Centre
 **Melbourne, Victoria, Australia**
-2015 – 2017
+2016 – 2017
 
-Contributed to succesfull clinical and business improvement programme, enabled by Cerner's perioperative and oncology reccomended workflows and technology solutions.
+Contributed to succesfull clinical and business improvement programme, enabled by Cerner's oncology reccomended-workflows and technology solutions.
 
 > "Between 20/06/17 and 11/08/17 we have treated 240 patients with 548 cycles of chemotherapy, and 45/70 regimens have been prescribed. No significant errors have been recorded. Processes to audit dose modification data for quality improvement and develop/maintain electronic regimens have been developed."
 [Learn More](http://cosa-2017.p.asnevents.com.au/days/2017-11-13/abstract/47697)
 
+### Austin Health
+**Melbourne, Victoria, Australia**
+2015 – 2016
+
+Contributed to succesfull clinical and business improvement programme, enabled by Cerner's perioperative reccomended-workflows and technology solutions.
 
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queesland, Australia**
