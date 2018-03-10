@@ -108,11 +108,9 @@ Recipient of award, leading to succesfull completion of Cerner's accelerated car
 
 ## [Interests](#interests)
 
-- New technologies
--- smart home
--- personal health
-- Mentoring and coaching
+- Emerging technologies
 - Growing companies
+- Mentoring and coaching
 
 ## [Further Information](#furtherinformation)
 
