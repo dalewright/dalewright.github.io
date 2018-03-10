@@ -71,7 +71,7 @@ Customer service and accomodation maintenance for an overseas holiday resort.
 **London, United Kingdom**
 2011 – 2013
 
-> First [NHS] trust in UK validated HIMMS Stage 6 by an on-site visit.
+> First trust in UK validated HIMMS Stage 6 by an on-site visit.
 [Read More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
 
 ### Oxford University Hospitals NHS Trust
