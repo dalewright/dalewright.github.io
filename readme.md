@@ -96,9 +96,9 @@ References available upom request
 
 ## [Personal Interests & Achievements](#personalinterestsachievements)
 
-- **New technology** 
-- **Mentoring**
-- **Growing companies** 
+- **New technology**I am always looking for opportunities to experience new technologies. I actively build relationships with teams working on technologies that are of interest to me, often resulting in me helping test and refine the technology before it comes to market. Most recently, I have worked with a team in Milan who have developed a revolutionary air purification system that takes advantage of the latest advances in material science.
+- **Career mentoring** My career has benefited from the support and mentorship of many exceptionally talented and generous individuals. I do not take this for granted and I actively seek out opportunities to help others grow their careers. I am currently working with The Smith Family charity to mentor young persons who wish to start a career in the technology industry.
+- **Helping grow companies**Over the years, I have had the opportunity to help friends and family members grow their companies using various technologies. It's very rewarding to see those I care about, achieve their personal and professional goals.
 
 ## [Further Information](#furtherinformation)
 
