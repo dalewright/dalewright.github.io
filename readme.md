@@ -49,7 +49,7 @@ May 2004 - November 2004
 Customer service and accomodation maintenance for an overseas holiday resort.
 
 ### Lead Bartender
-**Luminar Lesuire, United Kingdom**
+**Luminar Lesuire, Nottingham, United Kingdom**
 2004 - 2005
 
 Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
@@ -61,7 +61,7 @@ June 2003 - September 2003
 Customer service and accomodation maintenance for an overseas holiday resort.
 
 ### Bartender
-**Luminar Lesuire, United Kingdom**
+**Luminar Lesuire, Nottingham, United Kingdom**
 2002 - 2004
 
 Customer service at large entertainment venue.
