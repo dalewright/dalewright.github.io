@@ -118,11 +118,11 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 
 ### Location
 
-Melbourne, Victoria, Australia
+- Melbourne, Australia
 
 ### Language
 
-English
+- English
 
 ### Legal Status
 
