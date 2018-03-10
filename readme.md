@@ -4,7 +4,7 @@
 **Cerner, Australia** 
 September 2017 - Present
 
-Workflow and change management expert. Resposonsible for developing and maintaining strategic relatioships with key project stakeholders. These relatioships are leveraged throughout project lifecycle to clarrify priorities, faciliate decision-making and drive adoption.
+Workflow and change management expert. Accountable for helping clients achieve measurable value from Cerner’s best-practice workflows and technology solutions. Resposonsible for developing and maintaining relatioships with key project stakeholders. These relatioships are leveraged throughout project lifecycle to clarrify priorities, faciliate decision-making and drive adoption.
 
 ### Senior Clinical Strategist
 **Cerner, Australia**
