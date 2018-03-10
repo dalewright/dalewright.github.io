@@ -88,12 +88,6 @@ June 2003 - September 2003
 
 Recipient of award, leading to succesfull completion of Cerner's accelerated career development programme. The programme greatly expanded my understanding of technologies role in improving the quality and cost of health care around the world.
 
-## [References](#references)
-
-References available upom request
-
-[Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
-
 ## [Personal Interests & Achievements](#personalinterestsachievements)
 
 - **New technology** 
@@ -114,3 +108,9 @@ English
 
 - British citizen
 - Resident of United Kingdom and Australia
+
+### [References](#references)
+
+References available upom request
+
+[Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
