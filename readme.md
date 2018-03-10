@@ -92,11 +92,11 @@ Customer service and accomodation maintenance for an overseas holiday resort.
 
 ## [Professional Awards](#professionalawards)
 
-### Rising Star Award
+### Rising Star
 **Cerner, United Kingdom**
 2010
 
-Recipient of Rising Star award for early-career performance. Lead to succesfull completion of Cerner's accelerated career development programme.
+Awarded for my performance during the early years of my Cerner career. Lead to succesfull completion of Cerner's accelerated career development programme.
 
 ## [Education History](#educationalhistory)
 
