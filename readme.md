@@ -42,29 +42,29 @@ June 2005 - June 2006
 
 Assisted with the coordination the immediate and long-term resolution of business-critical technology incidents, leveraging ITIL Service Management best practices.
 
-### Lead Bartender
-**Luminar Lesuire, United Kingdom**
-2004 - 2005
-
-Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
-
-### Bartender
-**Luminar Lesuire, United Kingdom**
-2003 - 2004
-
-Customer service at large entertainment venue.
-
 ### Senior Campsite Courier,
 **Canvas Holidays, France**
 May 2004 - November 2004
 
 Customer service and accomodation maintenance for an overseas holiday resort.
 
+### Lead Bartender
+**Luminar Lesuire, United Kingdom**
+2004 - 2005
+
+Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
+
 ### Camspite Courier
 **Canvas Holidays, France**
 June 2003 - September 2003
 
 Customer service and accomodation maintenance for an overseas holiday resort.
+
+### Bartender
+**Luminar Lesuire, United Kingdom**
+2003 - 2004
+
+Customer service at large entertainment venue.
 
 ## [Projects & Accomplishments](#projectsalaccomplishments)
 
