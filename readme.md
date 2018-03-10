@@ -91,12 +91,13 @@ June 2003 - September 2003
 > The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT.
 [Learn More](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
 
-## [Professional Honours](#professionalhonours)
+## [Professional Awards](#professionalawards)
 
-### Rising Star
+### Rising Star Award
+**Cerner, United Kingdom**
 2010
 
-Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme. The programme greatly expanded my knowledge/understanding of Cerner and technologies role in improving the quality and cost of health care around the world.
+Recipient of award, leading to succesfull completion of Cerner's accelerated career development programme. The programme greatly expanded my understanding of technologies role in improving the quality and cost of health care around the world.
 
 ## [References](#references)
 
