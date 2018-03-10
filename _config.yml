@@ -1,5 +1,5 @@
+plugins:
+  - jekyll-sitemap
 theme: jekyll-theme-cayman
 title: Dale Wright
 description: Experienced strategist and consultant. Works at the intersection of health and technology. Partners with mission-driven teams to create value.
-plugins:
-  - jekyll-sitemap
