@@ -127,7 +127,7 @@ English
 - British citizen
 - Resident of United Kingdom and Australia
 
-## [References](#references)
+### References
 
 References available upon request
 
