@@ -122,7 +122,7 @@ Contributed to succesfull clinical and business improvement project, enabled by 
 ### Rising Star
 2010
 
-Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme. The programme greatly expanded my knowledge/understanding of Cerner and the significance of technologies role in improving the quality and cost of health care around the world.
+Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme. The programme greatly expanded my knowledge/understanding of Cerner and technologies role in improving the quality and cost of health care around the world.
 
 ## [References](#references)
 
