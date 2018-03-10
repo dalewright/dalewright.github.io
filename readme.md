@@ -96,9 +96,9 @@ References available upom request
 
 ## [Personal Interests & Achievements](#personalinterestsachievements)
 
-- **New technology** Example
-- **Growing companies** Example
-- **Mentoring** Example
+- **New technology** 
+- **Mentoring**
+- **Growing companies** 
 
 ## [Further Information](#furtherinformation)
 
