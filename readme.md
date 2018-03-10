@@ -52,13 +52,6 @@ June 2003 - September 2003
 
 ## [Professional Accomplishments](#professionalaccomplishments)
 
-### ONJ Cancer & Wellness Research Centre
-**Heidelberg, Victoria, Australia**
-2016 – 2017
-
-> "Between 20/06/17 and 11/08/17 we have treated 240 patients with 548 cycles of chemotherapy, and 45/70 regimens have been prescribed. No significant errors have been recorded. Processes to audit dose modification data for quality improvement and develop/maintain electronic regimens have been developed."
-[Learn More](http://cosa-2017.p.asnevents.com.au/days/2017-11-13/abstract/47697)
-
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queesland, Australia**
 2013 - 2015
