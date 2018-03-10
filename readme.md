@@ -8,13 +8,13 @@ September 2017 - Present
 **Cerner, Australia**
 March 2016 - September 2017
 
-Workflow and change management specialist. Accountable for helping clients achieve measurable value from Cerner's reccomended workflows, technology solutions and services.
+Workflow and change management specialist. Accountable for helping clients achieve measurable value from Cerner's best-practice workflows, technology solutions and services.
 
 ### Clinical Strategist
 **Cerner, United Kingdom & Australia**
 April 2012 - March 2016
 
-Workflow specialist. Responsible for helping clients transform their clinical and business processes, supported by Cerner’s technology solutions.
+Workflow specialist. Responsible for helping clients transform their clinical and business processes, by leveraging Cerner’s best-practcie workflows and technology solutions.
 
 ### Strategic Business Analyst
 **Cerner, United Kingdom**
@@ -26,13 +26,13 @@ Aligned to senior executive and their leadership team. Assisted with strategic b
 **Cerner, United Kingdom**
 April 2010 - Augist 2011
 
-Solution expert. Accountable for successful implementation of Cerner's electronic health record (EHR) solutions.
+Solution expert. Accountable for successful implementation of Cerner's technology solutions. Area of focus included; acute medical, pharmacy, nursing, allied health and clerical.
 
 ###  Consultant
 **Cerner, United Kingdom**
 March 2008 - April 2010
 
-Solution specialist. Responsible for technical implementation of Cerner's electronic health record (EHR) solutions.
+Solution specialist. Resposnible for technical configuration of Cerner's technology solutions. Area of focus included; acute medical, nursing and allied health.
 
 ### Service Management Intern
 **IBM Global Services, United Kingdom**
