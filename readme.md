@@ -8,7 +8,7 @@ September 2017 - Present
 **Cerner, Australia**
 March 2016 - September 2017
 
-Workflow and change management specialist. Accountable for helping clients achieve measurable value from Cerner's best-practice workflows, technology solutions and services.
+Workflow and change management expert. Accountable for helping clients achieve measurable value from Cerner's best-practice workflows and technology solutions.
 
 ### Clinical Strategist
 **Cerner, United Kingdom & Australia**
