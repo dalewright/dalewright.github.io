@@ -113,7 +113,5 @@ English
 
 ### Legal Status
 
---- | ---
-Citizenship | British
-Residency | United Kingdom, Australia
-
+- British citizen
+- Resident of United Kingdom and Australia
