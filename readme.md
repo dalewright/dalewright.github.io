@@ -22,7 +22,7 @@ Workflow specialist. Responsible for helping clients transform their clinical an
 **Cerner, United Kingdom**
 August 2011 - April 2012
 
-Aligned to senior executive and their leadership team. Assisted with strategic business planning. Areas of focus included;  visioning, government affairs and public relations.
+Aligned to senior executive and their leadership team. Assisted with strategic business planning.
 
 ### Senior Consultant
 **Cerner, United Kingdom**
