@@ -93,36 +93,36 @@ Contributed to succesfull clinical and business improvement project, enabled by 
 
 Contributed to succesfull clinical and business improvement project, enabled by Cerner's full suite of reccomended-workflows and technology services.
 
-> "The first HIMSS Stage 6 Hospital in Australia"
+>  First HIMSS Stage 6 Hospital in Australia
 [Learn More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
 
 ### St Georges University Hospitals NHS Foundation Trust
 **London, United Kingdom**
 2011 – 2013
 
-> "First trust in UK validated HIMMS Stage 6 by an on-site visit"
+> First [NHS] trust in UK validated HIMMS Stage 6 by an on-site visit
 [Learn More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
 
 ### Oxford University Hospitals NHS Trust
 **Oxfordshire, United Kingdom**
 2010 – 2011
 
-> "Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting"
+> Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting
 [Learn More](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf)
 
 ### Kingston Hospital NHS Foundation Trust
 **Kingston upon Thames, United Kingdom**
 2008 - 2009
 
-> "The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT."
+> The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT.
 [Learn More](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
 
-## Honours & Awards
+## Professional Honours
 
 ### Rising Star
 2010
 
-Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme.
+Recipient of Rising Star award, leading to succesfull completion of Cerner's accelerated career development programme. The development programme greatly expanded by knowledge/understanding of Cerner and the significance of its role in the improving health care around the world.
 
 ## [References](#references)
 
