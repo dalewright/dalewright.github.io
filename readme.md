@@ -143,7 +143,7 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 # [Contact](#contact)
 
 - [Email](mailto:dale@dalewright.com)
-- Video chat (Email for details)
+- Phone/Video Chat ([Request Contact Information]())
 
 - [Twitter](https://www.twitter.com/dalecraigwright)
 - [LinkedIn](https://linkedin.com/in/dalecraigwright)
