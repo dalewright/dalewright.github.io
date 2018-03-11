@@ -140,15 +140,14 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 - References available upon request
 - [Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
 
-## [Contact](#contact)
+## [Contact Information](#contactinformation)
 
 ### Direct
 
 - [Email](mailto:dale@dalewright.com)
 - Face-to-face, telephone or video chat ([Request contact information](mailto:dale@dalewright.com))
 
-## Social Media
+### Social Media
 
 - [Twitter](https://www.twitter.com/dalecraigwright)
 - [LinkedIn](https://linkedin.com/in/dalecraigwright)
-
