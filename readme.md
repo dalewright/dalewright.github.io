@@ -66,7 +66,7 @@ Customer service and accomodation maintenance for an overseas family holiday res
 
 Customer service at large entertainment venue.
 
-## [Projects & Accomplishments](#projectsalaccomplishments)
+## [Professional Projects & Accomplishments](#projectsalaccomplishments)
 
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queesland, Australia**
@@ -114,7 +114,7 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 **Alcester Grammar School**
 2000 - 2002
 
-## [Interests](#interests)
+## [Personal Interests](#personalinterests)
 
 - Emerging technologies
 - Growing companies
