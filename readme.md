@@ -143,15 +143,7 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 # [Contact](#contact)
 
 - [Email](mailto:dale@dalewright.com)
-- Phone/Video Chat ([Request Contact Information](<a href="mailto:dale@dalewright.com?subject=Request Contact Information&body=Hi Dale,
-
-I would like to contact you via phone or video chat.
-
-May I request your contact information?
-
-Thanks
-[Your name here]">Mailto.co.uk</a>
-))
+- Face-to-face, telephone or video chat ([Request contact information](mailto:dale@dalewright.com))
 
 - [Twitter](https://www.twitter.com/dalecraigwright)
 - [LinkedIn](https://linkedin.com/in/dalecraigwright)
