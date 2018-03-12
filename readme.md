@@ -78,22 +78,19 @@ Customer service at large entertainment venue.
 **London, United Kingdom**
 2011 – 2013
 
-> First trust in UK validated HIMMS Stage 6 by an on-site visit.
-[Read More](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
+> First trust in UK validated HIMMS Stage 6 by an on-site visit. <sup>2
 
 ### Oxford University Hospitals NHS Trust
 **Oxford, United Kingdom**
 2010 – 2011
 
-> Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting.
-[Read More](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf)
+> Reduced risk of errors arising from having multiple systems by consolidating information in one place and reporting. <sup>3
 
 ### Kingston Hospital NHS Foundation Trust
 **Kingston upon Thames, United Kingdom**
 2008 - 2009
 
-> The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT.
-[Read More](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
+> The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT. <sup>4
 
 ## [Professional Awards](#professionalawards)
 
@@ -151,6 +148,10 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 - [Twitter](https://www.twitter.com/dalecraigwright)
 - [LinkedIn](https://linkedin.com/in/dalecraigwright)
 
+### Footnotes
 
-<sup>1</sup>[HIMMS Analystics Asia Press Release](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
 
+<sup>1</sup> [Press Release from HIMMS Analystics Asia](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
+<sup>2</sup> [Press Release from St Georges NHS Foundation Trust](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
+<sup>3</sup> [Case Study by Oxford University Hospitals NHS Foundation Trust](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf)
+<sup>4</sup> [News article](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
