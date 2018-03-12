@@ -151,7 +151,7 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 ### Footnotes
 
 
-<sup>1</sup> [Press Release from HIMMS Analystics Asia](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
-<sup>2</sup> [Press Release from St Georges NHS Foundation Trust](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/)
-<sup>3</sup> [Case Study by Oxford University Hospitals NHS Foundation Trust](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf)
-<sup>4</sup> [News article](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/)
+<sup>1</sup> [Press Release from HIMMS Analystics Asia](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp).
+<sup>2</sup> [Press Release from St Georges NHS Foundation Trust](https://www.stgeorges.nhs.uk/newsitem/st-georges-receives-national-accreditation-himss-stage-6/).
+<sup>3</sup> [Case Study by Oxford University Hospitals NHS Foundation Trust](http://www.ouh.nhs.uk/patient-guide/documents/epr-case-study.pdf).
+<sup>4</sup> [News article](https://www.digitalhealth.net/2009/12/kingston-hits-go-live-date-with-cerner/).
