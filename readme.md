@@ -148,7 +148,7 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 - [Twitter](https://www.twitter.com/dalecraigwright)
 - [LinkedIn](https://linkedin.com/in/dalecraigwright)
 
-### Footnotes
+###### Footnotes
 
 
 <sup>1</sup> [Press release from HIMMS Analystics Asia](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp).
