@@ -72,8 +72,7 @@ Customer service at large entertainment venue.
 **Hervey Bay, Queesland, Australia**
 2013 - 2015
 
->  First HIMSS Stage 6 Hospital in Australia.
-[Read More](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
+>  First HIMSS Stage 6 Hospital in Australia. <sup>1
 
 ### St Georges University Hospitals NHS Foundation Trust
 **London, United Kingdom**
@@ -151,3 +150,7 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 
 - [Twitter](https://www.twitter.com/dalecraigwright)
 - [LinkedIn](https://linkedin.com/in/dalecraigwright)
+
+
+<sup>1</sup>[HIMMS Analystics Asia Press Release](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp)
+
