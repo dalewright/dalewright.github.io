@@ -1,3 +1,5 @@
+{% seo %}
+
 # Resume
 
 ## [Professional History](#professionalhistory)
