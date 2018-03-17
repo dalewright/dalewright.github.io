@@ -46,7 +46,7 @@ Assisted with the resolution of business-critical technology incidents, leveragi
 **Canvas Holidays, Vendée, France**
 May 2004 - November 2004
 
-Customer service and accomodation maintenance for an overseas family holiday resort.
+Customer service and operational management of an overseas family holiday resort.
 
 ### Lead Bartender
 **Luminar Lesuire, Nottingham, United Kingdom**
