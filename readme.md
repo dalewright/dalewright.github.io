@@ -10,61 +10,41 @@ September 2017 - Present
 **Cerner, Australia**
 March 2016 - September 2017
 
-Workflow and change management expert. Accountable for helping clients achieve measurable value from Cerner's best-practice workflows and technology solutions.
-
 ### Clinical Strategist
 **Cerner, United Kingdom & Australia**
 April 2012 - March 2016
-
-Workflow specialist. Responsible for helping clients transform their clinical and business processes, by leveraging Cerner’s best-practice workflows and technology solutions.
 
 ### Strategic Business Analyst
 **Cerner, United Kingdom**
 August 2011 - April 2012
 
-Aligned to senior executive and their leadership team. Assisted with strategic business planning.
-
 ### Senior Consultant
 **Cerner, United Kingdom**
 April 2010 - August 2011
-
-Solution expert. Accountable for successful implementation of Cerner's technology solutions. Area of focus included; acute medical, pharmacy, nursing, allied health and clerical.
 
 ###  Consultant
 **Cerner, United Kingdom**
 March 2008 - April 2010
 
-Solution specialist. Responsible for technical configuration of Cerner's technology solutions. Area of focus included; acute medical, nursing and allied health.
-
 ### Service Management Intern
 **IBM Global Services, United Kingdom**
 June 2005 - June 2006
-
-Assisted with the resolution of business-critical technology incidents, leveraging ITIL Service Management best practices.
 
 ### Senior Campsite Courier
 **Canvas Holidays, Vendée, France**
 May 2004 - November 2004
 
-Customer service and operational management of an overseas family holiday resort.
-
 ### Lead Bartender
 **Luminar Leisure, Nottingham, United Kingdom**
 2004 - 2005
-
-Customer service, operational management and financial accounting for multiple service areas within large entertainment venue.
 
 ### Campsite Courier
 **Canvas Holidays, Vendée, France**
 June 2003 - September 2003
 
-Customer service and accommodation maintenance for an overseas family holiday resort.
-
 ### Bartender
 **Luminar Leisure, Nottingham, United Kingdom**
 2002 - 2004
-
-Customer service at large entertainment venue.
 
 ## [Professional Projects & Accomplishments](#projectsalaccomplishments)
 
@@ -98,8 +78,6 @@ Customer service at large entertainment venue.
 **Cerner, United Kingdom**
 2010
 
-Awarded for my performance during the early years of my Cerner career. Lead to successful completion of Cerner's accelerated career development programme.
-
 ## [Education History](#educationalhistory)
 
 ### Bachelor of Arts, Quality & Business Excellence
@@ -109,12 +87,6 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 ### Double A-Level in Business Studies &  A-Level in History
 **Alcester Grammar School**
 2000 - 2002
-
-## [Personal Interests](#personalinterests)
-
-- Emerging technologies
-- Growing companies
-- Mentoring and coaching
 
 ## [Further Information](#furtherinformation)
 
@@ -130,23 +102,6 @@ Awarded for my performance during the early years of my Cerner career. Lead to s
 
 - British citizen
 - Resident of United Kingdom and Australia
-
-### References
-
-- References available upon request
-- [Review my endorsements on LinkedIn](https://www.linkedin.com/in/dalecraigwright/)
-
-## [Contact Information](#contactinformation)
-
-### Direct
-
-- [Email](mailto:dale@dalewright.com)
-- Face-to-face, telephone or video chat ([Request contact information](mailto:dale@dalewright.com))
-
-### Social Media
-
-- [Twitter](https://www.twitter.com/dalecraigwright)
-- [LinkedIn](https://linkedin.com/in/dalecraigwright)
 
 ###### Footnotes
 
