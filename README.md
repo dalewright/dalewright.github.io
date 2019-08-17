@@ -96,8 +96,8 @@ June 2005 - June 2006
 
 ### Legal Status
 
-- British citizen
-- Permenant resident of Australia (Citizenship in progress)
+- Unitied Kingdom -  Citizen
+- Australia - Permenant Resident (Citizenship in progress)
 
 ## Footnotes
 ---
