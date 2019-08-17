@@ -1,27 +1,29 @@
 {% seo %}
 ## Professional History
 
-### Lead Clinical Strategist
+### Cerner
+
+#### Lead Clinical Strategist
 **Cerner, Australia**
 September 2017 - Present
 
-### Senior Clinical Strategist
+#### Senior Clinical Strategist
 **Cerner, Australia**
 March 2016 - September 2017
 
-### Clinical Strategist
+#### Clinical Strategist
 **Cerner, United Kingdom & Australia**
 April 2012 - March 2016
 
-### Strategic Business Analyst
+#### Strategic Business Analyst
 **Cerner, United Kingdom**
 August 2011 - April 2012
 
-### Senior Consultant
+#### Senior Consultant
 **Cerner, United Kingdom**
 April 2010 - August 2011
 
-###  Consultant
+####  Consultant
 **Cerner, United Kingdom**
 March 2008 - April 2010
 
