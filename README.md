@@ -1,6 +1,4 @@
 {% seo %}
-# Resume
-
 ## Professional History
 
 ### Lead Clinical Strategist
