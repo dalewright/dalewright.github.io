@@ -2,3 +2,4 @@ plugins:
   - jekyll-sitemap
 theme: jekyll-theme-cayman
 title: Dale Wright
+description: Resume
