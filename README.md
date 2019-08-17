@@ -99,7 +99,7 @@ June 2005 - June 2006
 - British citizen
 - Permenant resident of Australia (Citizenship in progress)
 
-###### Footnotes
+## Footnotes
 ---
 
 <sup>1</sup> [Press release from HIMMS Analytics Asia](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp).
