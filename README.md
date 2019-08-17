@@ -17,11 +17,11 @@ April 2012 - March 2016
 **Cerner, United Kingdom**
 August 2011 - April 2012
 
-### Senior Consultant
+### Senior Solution Consultant
 **Cerner, United Kingdom**
 April 2010 - August 2011
 
-###  Consultant
+###  Solution Consultant
 **Cerner, United Kingdom**
 March 2008 - April 2010
 
@@ -35,7 +35,7 @@ June 2005 - June 2006
 **Hervey Bay, Queensland, Australia**
 2013 - 2015
 
->  First HIMSS Stage 6 Hospital in Australia. <sup>1
+>  First HIMSS Stage 6 Hospital in Australia <sup>1.
 
 ### St Georges University Hospitals NHS Foundation Trust
 **London, United Kingdom**
