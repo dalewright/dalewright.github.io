@@ -1,7 +1,7 @@
-#Resume
 {% seo %}
+# Resume
 
-## [Professional History](#professionalhistory)
+## Professional History
 
 ### Lead Clinical Strategist
 **Cerner, Australia**
@@ -47,7 +47,7 @@ June 2003 - September 2003
 **Luminar Leisure, Nottingham, United Kingdom**
 2002 - 2004
 
-## [Professional Projects & Accomplishments](#projectsalaccomplishments)
+## Professional Projects & Accomplishments
 
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queensland, Australia**
@@ -73,9 +73,13 @@ June 2003 - September 2003
 
 > The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT. <sup>4
 
-## [Professional Awards](#professionalawards)
+## Professional Awards
 
 ### Rising Star
+**Cerner, United Kingdom**
+2010
+
+### Leadership Development
 **Cerner, United Kingdom**
 2010
 
