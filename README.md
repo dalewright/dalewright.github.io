@@ -34,7 +34,7 @@ March 2008 - April 2010
 **IBM Global Services, United Kingdom**
 June 2005 - June 2006
 
-## Professional Projects & Accomplishments
+## Professional Accomplishments
 ---
 
 ### St Stephen's Hospital, United Care Health
@@ -97,7 +97,7 @@ June 2005 - June 2006
 ### Legal Status
 
 - British citizen
-- Resident of United Kingdom and Australia
+- Permenant resident of Australia (Citizenship in progress)
 
 ###### Footnotes
 ---
