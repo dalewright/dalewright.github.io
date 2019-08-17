@@ -73,13 +73,13 @@ June 2003 - September 2003
 
 ## Professional Awards
 
-### Rising Star
+### Rising Star Programme
 **Cerner, United Kingdom**
 2010
 
-### Leadership Development
-**Cerner, United Kingdom**
-2010
+### Leadership Development Programme
+**Cerner, Australia**
+2019
 
 ## [Education History](#educationalhistory)
 
