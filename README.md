@@ -1,6 +1,10 @@
 {% seo %}
 ## Professional History
----------------
+---
+
+### Technology Advisor
+*** Dale Wright Consulting ***
+1998 - Present
 
 ### Lead Clinical Strategist
 **Cerner, Australia**
@@ -31,6 +35,7 @@ March 2008 - April 2010
 June 2005 - June 2006
 
 ## Professional Projects & Accomplishments
+---
 
 ### St Stephen's Hospital, United Care Health
 **Hervey Bay, Queensland, Australia**
@@ -57,6 +62,7 @@ June 2005 - June 2006
 > The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT. <sup>4
 
 ## Professional Awards
+---
 
 ### Rising Star Programme
 **Cerner, United Kingdom**
@@ -66,7 +72,8 @@ June 2005 - June 2006
 **Cerner, Australia**
 2019
 
-## [Education History](#educationalhistory)
+## Education History
+---
 
 ### Bachelor of Arts, Quality & Business Excellence
 **Nottingham Business School**
@@ -76,7 +83,8 @@ June 2005 - June 2006
 **Alcester Grammar School**
 2000 - 2002
 
-## [Further Information](#furtherinformation)
+## Further Information
+---
 
 ### Location
 
@@ -92,6 +100,7 @@ June 2005 - June 2006
 - Resident of United Kingdom and Australia
 
 ###### Footnotes
+---
 
 <sup>1</sup> [Press release from HIMMS Analytics Asia](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp).
 
