@@ -1,5 +1,6 @@
 {% seo %}
 ## Professional History
+---------------
 
 ### Lead Clinical Strategist
 **Cerner, Australia**
