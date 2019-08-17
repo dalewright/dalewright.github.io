@@ -29,22 +29,6 @@ March 2008 - April 2010
 **IBM Global Services, United Kingdom**
 June 2005 - June 2006
 
-### Senior Campsite Courier
-**Canvas Holidays, Vendée, France**
-May 2004 - November 2004
-
-### Lead Bartender
-**Luminar Leisure, Nottingham, United Kingdom**
-2004 - 2005
-
-### Campsite Courier
-**Canvas Holidays, Vendée, France**
-June 2003 - September 2003
-
-### Bartender
-**Luminar Leisure, Nottingham, United Kingdom**
-2002 - 2004
-
 ## Professional Projects & Accomplishments
 
 ### St Stephen's Hospital, United Care Health
