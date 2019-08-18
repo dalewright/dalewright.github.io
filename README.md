@@ -1,10 +1,7 @@
 {% seo %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio aenean sed adipiscing diam
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio aenean sed adipiscing diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio aenean sed adipiscing diam.`
 
-# Resume
----
-
-## Professional History
+# Professional History
 ---
 
 ### Technology Advisor
@@ -55,7 +52,7 @@ June 2005 - June 2006
 
 `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio aenean sed adipiscing diam.`
 
-## Professional Accomplishments
+# Professional Accomplishments
 ---
 
 ### St Stephen's Hospital, United Care Health
@@ -90,7 +87,7 @@ June 2005 - June 2006
 
 > The hospital went live on the final day of November, the very latest that director general of informatics, Christine Connelly, said that Local Service Providers BT and CSC were given to make “significant process” with their strategic systems under the National Programme for IT. <sup>4
 
-## Professional Awards
+# Professional Awards
 ---
 
 ### Rising Star Programme
@@ -105,7 +102,7 @@ June 2005 - June 2006
 
 `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio aenean sed adipiscing diam.`
 
-## Education History
+# Education History
 ---
 
 ### Bachelor of Arts, Quality & Business Excellence
@@ -116,7 +113,7 @@ June 2005 - June 2006
 **Alcester Grammar School**
 2000 - 2002
 
-## Further Information
+# Further Information
 ---
 
 ### Location
@@ -132,7 +129,7 @@ June 2005 - June 2006
 - Unitied Kingdom -  Citizen
 - Australia - Permenant Resident (Citizenship in progress)
 
-## Footnotes
+# Footnotes
 ---
 
 <sup>1</sup> [Press release from HIMMS Analytics Asia](http://www.himssanalyticsasia.org/about/pressRoom-pressrelease19.asp).
