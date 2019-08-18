@@ -2,7 +2,7 @@
 ---
 
 ### Technology Advisor
-**Dale Wright Consulting**
+**Dale Wright Advisory**
 1998 - Present
 
 ### Lead Clinical Strategist
