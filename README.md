@@ -9,7 +9,7 @@
 **Dale Wright Consulting**
 1998 - Present
 
-'example'
+`example`
 
 ### Lead Clinical Strategist
 **Cerner, Australia**
