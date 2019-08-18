@@ -1,4 +1,7 @@
 {% seo %}
+# Resume
+===
+
 ## Professional History
 ---
 
