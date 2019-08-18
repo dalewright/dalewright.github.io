@@ -1,6 +1,6 @@
 {% seo %}
 # Resume
-===
+---
 
 ## Professional History
 ---
