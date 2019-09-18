@@ -3,7 +3,3 @@ plugins:
 theme: jekyll-theme-cayman
 title: Dale Wright
 description: Endlessly curious and committed to making a difference.
-show_downloads: true
-github:
-  zip_url: http://example.com/download.zip
-  another_url: LinkedIn Profile
