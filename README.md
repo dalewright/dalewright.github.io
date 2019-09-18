@@ -1,8 +1,7 @@
 I am a grateful husband and father of two. I have a lifetime of technology experience and 12 years of professional experience with IBM and Cerner in the UK and Australia.
 
----
 
-**Technology has always been my passion**. I am constantly exploring how established and emerging technologies are being applied around the world. I am happiest when I can apply what I have learned to enhance the lives of my family and friends. I am currently focused on using voice to unlock the convenience, safety and efficiency benefits of smart homes. 
+**Technology has always been my passion**. I am constantly exploring how established and emerging technologies are being applied around the world. I am happiest when I can apply what I have learned to enhance the lives of my family and friends. I am currently focused on using voice to unlock the convenience, safety and efficiency benefits of smart homes.
 
 ---
 
@@ -10,4 +9,8 @@ In 2006, I completed an undergraduate internship with **IBM** and American Expre
 
 ---
 
-In 2007, I received an honours degree from Nottingham Business. and joined **Cerner**. Cerner is a leading provider of technology products and services in the health care industry. I chose Cerner because my mother was a nurse and I understood the challenges and rewards of being a clinician. I knew I could make a difference.
+In 2007, I received an honours degree from Nottingham Business School and joined **Cerner**. Cerner is a leading provider of technology products and services in the health care industry. I chose Cerner because my mother was a nurse and I understood the challenges and rewards of being a clinician. I wanted to make a difference. I spent the next 12 years doing just that.
+
+By 2011, I had become a **Senior Solution Architect**.
+
+My team was responsible for sharing Cerners reccomended workflow and successfully implementing Cerner's recommended workflows and products for hospital-based doctors, nurses and allied health professionals. I was a subject matter expert of 
