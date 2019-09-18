@@ -1,6 +1,4 @@
-# About me
-
-
+## About me
 
 I am loving **husband** and **father**. I have a **lifetime of technology experience** and **12 years professional experience** with **IBM** and **Cerner**  in the **United Kingdom** & **Australia**.
 
